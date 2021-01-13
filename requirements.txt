@@ -1,0 +1,5 @@
+# install this lib
+# it's bugged
+# to "fix" it, follow the instructions here
+# https://github.com/fbchat-dev/fbchat/issues/615#issuecomment-710673863
+fbchat
